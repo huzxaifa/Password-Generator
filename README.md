@@ -2,13 +2,15 @@
 
 ## Overview
 
-A versatile tool for creating secure passwords. Customize length, character sets, and output hashed passwords in bits or characters. Easy-to-use interface.
+This Password Generator is a versatile tool designed to create secure and customizable passwords. It offers various features to cater to different security requirements and user preferences, including basic, complex, and complexity-specific password generation. Additionally, it provides functionality to hash passwords and perform dictionary attacks.
 
 ## Features
 
-- Customizable password length
-- Character set options: lowercase, uppercase, numbers, special characters
-- Option to generate hashed passwords in bits or characters
+- **Generate Basic Passwords**: Create numeric or alphabetical passwords of specified length.
+- **Generate Complex Passwords**: Create passwords with lowercase, uppercase, or both, including digits.
+- **Generate Complexity-Specific Passwords**: Create passwords in bits, characters, or hex format with special characters.
+- **Password Hashing**: Suggests appropriate hash functions and allows hashing with various algorithms.
+- **Dictionary Attack**: Attempt to crack hashed passwords using a dictionary file.
 
 ## Installation
 
