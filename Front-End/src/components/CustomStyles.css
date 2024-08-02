@@ -1,0 +1,99 @@
+body, html {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .container {
+    background-color: #2b2b2b;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .typography-header {
+    color: #ffffff;
+    margin-bottom: 20px;
+  }
+  
+  .typography-subheader {
+    color: #cccccc;
+    margin-top: 10px;
+  }
+  
+  .textfield {
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: #333;
+  }
+  
+  .textfield input {
+    color: #fff;
+  }
+  
+  .textfield .MuiInputBase-input {
+    padding: 10px;
+  }
+  
+  .textfield .MuiOutlinedInput-notchedOutline {
+    border-color: #555;
+  }
+  
+  .button {
+    width: 100%;
+    background-color: #0077b6;
+    color: white;
+    padding: 10px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .button:hover {
+    background-color: #005f87;
+  }
+  
+  .link {
+    color: #00aaff;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
+  .icon-button {
+    color: #e0e0e0;
+    margin-left: 10px;
+  }
+  
+  .icon-button:hover {
+    color: #00aaff;
+  }
+  
+  .password-card {
+    background-color: #2b2b2b;
+    color: #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .site-title {
+    color: #b0a9ff;
+  }
+  
+  .field-title {
+    color: #cccccc;
+    margin-top: 10px;
+  }
+  
+  .field-value {
+    color: #ffffff;
+    margin-bottom: 5px;
+  }
+  
