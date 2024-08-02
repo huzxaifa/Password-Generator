@@ -10,7 +10,6 @@ This Password Generator is a versatile tool designed to create secure and custom
 - **Generate Complex Passwords**: Create passwords with lowercase, uppercase, or both, including digits.
 - **Generate Complexity-Specific Passwords**: Create passwords in bits, characters, or hex format with special characters.
 - **Password Hashing**: Suggests appropriate hash functions and allows hashing with various algorithms.
-- **Dictionary Attack**: Attempt to crack hashed passwords using a dictionary file.
 
 ## Installation
 
